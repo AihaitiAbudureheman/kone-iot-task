@@ -1,6 +1,0 @@
-
----
-applications:
- - name: KoneIotAssignment
-   random-route: true
-   memory: 256M
